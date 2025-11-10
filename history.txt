@@ -43,3 +43,4 @@
 2025-08-10 22:33:54 adjust validation rules
 2025-05-09 17:44:55 adjust error messages
 2025-12-09 05:37:53 patch memory leak
+2025-11-10 12:55:06 update version
