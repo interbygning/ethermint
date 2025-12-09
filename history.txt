@@ -87,3 +87,4 @@
 2025-07-18 18:41:56 better error handling
 2025-05-28 21:56:49 fix misconfiguration
 2025-01-07 03:25:41 update docs with examples
+2025-12-09 18:01:33 update configs
